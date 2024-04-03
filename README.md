@@ -23,7 +23,7 @@ The enchanted results will appear!
 * Expand the fairy name list within the code to personalize your rolls.
 
 ## 🪄 Example Output
-Your fairy dice rolls are:
+Your fairy dice rolls are:\
 Roll 1: {roll: 6, fairyName: 'Willowwisp'}\
 Roll 2: {roll: 14, fairyName: 'Hazelheart'}\
 Roll 3: {roll: 15, fairyName: 'Rainsong'}
